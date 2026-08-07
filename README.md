@@ -1,3 +1,9 @@
+
+#Figures_Data_code
+
+This folder contains all raw data for Figures 1b, 2, 4b and 4c. 
+PK stands for PK307-4, and STM50 for Salmonella enterica Typhimurium 14028S tagged with lacIZ/kan. "Blue" corresponds to measured Salmonella colonies and "white" to measured Pseudomonas colonies. 
+
 # Pseudomonas RNA seq-deseq folder
 
 This repository contains R scripts and data for RNA sequencing Differential expression analysis on Pseudomonas in response to Salmonella presence in vitro and in planta
