@@ -1,0 +1,25 @@
+﻿Light condition,Strain,Replicate,Diameter,Tryptophan concentration
+DD,PK,1,2.4,0
+DD,PK,2,2.4,0
+DD,PK,3,2.8,0
+DD,ΔtrpC,1,2,0
+DD,ΔtrpC,2,2.2,0
+DD,ΔtrpC,3,1.8,0
+DD,pTrpC,1,2.8,0
+DD,pTrpC,2,2.4,0
+DD,PK,1,1.8,0.1
+DD,PK,2,2,0.1
+DD,PK,3,2.2,0.1
+DD,ΔtrpC,1,1.4,0.1
+DD,ΔtrpC,2,1.6,0.1
+DD,ΔtrpC,3,1.4,0.1
+DD,pTrpC,1,1.8,0.1
+DD,pTrpC,2,1.6,0.1
+DD,PK,1,0.8,24.5
+DD,PK,2,0.8,24.5
+DD,PK,3,0.8,24.5
+DD,ΔtrpC,1,0,24.5
+DD,ΔtrpC,2,0,24.5
+DD,ΔtrpC,3,0,24.5
+DD,pTrpC,1,0.8,24.5
+DD,pTrpC,2,1,24.5
