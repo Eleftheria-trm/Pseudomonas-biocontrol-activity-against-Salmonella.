@@ -1,7 +1,7 @@
 
 #Figures_Data_code
 
-This folder contains all raw data for Figures 1b, 2, 4b and 4c. 
+This folder contains all raw data for Figures 1b, 2, 4b,  4c and S8. 
 PK stands for PK307-4, and STM50 for Salmonella enterica Typhimurium 14028S tagged with lacIZ/kan. "Blue" corresponds to measured Salmonella colonies and "white" to measured Pseudomonas colonies. 
 
 # Pseudomonas RNA seq-deseq folder
@@ -15,6 +15,10 @@ This repository contains R scripts and data for RNA sequencing Differential expr
 ### :file_folder: [deseq](./deseq/README.md)
 
 Contains RNA-seq differential expression analysis.
+
+#Pathway _analysis
+
+This directory contains the scripts, input data, reference annotations and results for KEGG gene set enrichment analysis (GSEA) of Pseudomonas PK307-4 in response to Salmonella, under in vitro and in planta conditions.
 
 ## Usage
 
